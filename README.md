@@ -1,0 +1,2 @@
+A to-do list is a simple organizational tool that helps you keep track of tasks you need to complete. It typically includes items such as daily chores, work-related projects, appointments, and personal goals. 
+By writing tasks down, you can prioritize them, stay focused, and increase productivity. You can use various formats, from digital apps to paper lists, making it adaptable to your personal preferences.
